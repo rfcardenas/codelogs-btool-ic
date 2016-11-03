@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-MAINTAINER Ronald  (rfcardenas92@gmail.com)
+MAINTAINER Ronald Fra.  (rfcardenas92@gmail.com)
 
 RUN apt-get update
 
